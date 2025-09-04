@@ -1,0 +1,26 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pth
+
+# Ignore Streamlit local settings
+.streamlit/
+
+# Ignore dataset (too large to upload)
+data1/
+
+# Ignore trained models (can be very large)
+Model/
+
+# Ignore system/IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ignore virtual environment
+env/
+venv/

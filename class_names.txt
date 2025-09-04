@@ -1,0 +1,4 @@
+Hazardous-samples
+Non-Recycable-samples
+Organic-samples
+Recyclable-samples
