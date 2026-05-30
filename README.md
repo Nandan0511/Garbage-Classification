@@ -32,5 +32,5 @@ Frameworks: **TensorFlow, Keras, NumPy, Matplotlib**
 ## 🚀 How to Run
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Garbage-Classification.git
+git clone https://github.com/Nandan0511/Garbage-Classification.git
 cd Garbage-Classification
